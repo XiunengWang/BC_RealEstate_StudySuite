@@ -15,17 +15,13 @@ def _patch_set_page_config():
             pass
 
 def _patch_safe_secrets():
-    """Avoid StreamlitSecretNotFoundError when code calls st.secrets.get().
-    Replace st.secrets with an env-backed dict if no secrets.toml is present.
-    """
-    # If user has a secrets.toml in default locations, do nothing.
+    # If no secrets.toml exists, let st.secrets read from env to avoid StreamlitSecretNotFoundError
     default_paths = [
         Path.home() / ".streamlit" / "secrets.toml",
         Path.cwd() / ".streamlit" / "secrets.toml",
     ]
     if any(p.exists() for p in default_paths):
         return
-    # Otherwise, override with environment-backed mapping
     class EnvSecrets(dict):
         def get(self, key, default=None):  # type: ignore[override]
             return os.environ.get(key, default)
@@ -63,6 +59,13 @@ def run_mcq_app(mcq_dir):
     _patch_set_page_config()
     _patch_safe_secrets()
     app_py = mcq_dir / "app.py"
+    # sanitize foreign 'mode' for safety
+    try:
+        valid = {"All","Range","Random N","Wrong only","Not done yet","Calculation only","Non-calculation only"}
+        if st.session_state.get("mode") not in valid:
+            st.session_state.pop("mode", None)
+    except Exception:
+        pass
     runpy.run_path(str(app_py), init_globals={"__name__": "__main__"})
     if original_auth_ui is not None:
         ap.auth_ui = original_auth_ui  # type: ignore
