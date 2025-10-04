@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Describe <strong>airspace</strong>, in both its historical and current context.",
+    "answer": "Historically, one owned the airspace above a parcel of land \"to the heavens\". Today, airspace refers to the legal concept that a person who owns land also owns as much of the airspace above the land as they can effectively use.\""
+  },
+  {
+    "question": "Articles of personal property (e.g., a car, a stereo, a television), as opposed to real property, are known as _________.",
+    "answer": "Articles of personal property as opposed to real property are known as <strong>chattels</strong>."
+  },
+  {
+    "question": "The <strong>dominant tenement</strong> is the land to which the benefit of a right is attached.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "The <strong>dominant tenement</strong> is the land to which the benefit of a right is attached.<br />&nbsp;<strong>(1) True</strong><br />&nbsp;(2) False"
+  },
+  {
+    "question": "Which of the following is <strong>false</strong> regarding <strong>easements</strong>?<br />&nbsp;(1) The land receiving the benefit is the dominant tenement.<br />&nbsp;(2) The land granting the benefit is the servient tenement.<br />&nbsp;(3) The dominant tenement has full use of the servient tenement's land.<br />&nbsp;(4) The dominant tenement has limited use of the servient tenement's land.",
+    "answer": "Which of the following is <strong>false</strong> regarding <strong>easements</strong>?<br />&nbsp;(1) The land receiving the benefit is the dominant tenement.<br />&nbsp;(2) The land granting the benefit is the servient tenement.<br />&nbsp;<strong>(3) The dominant tenement has full use of the servient tenement's land.</strong><br />&nbsp;(4) The dominant tenement has limited use of the servient tenement's land.<br />All other statements are true."
+  },
+  {
+    "question": "Which of the following is <strong>true</strong> regarding <strong>encumbrances</strong>?<br />&nbsp;(1) An encumbrance is a judgment, mortgage or lien or any other claim which is registered against the title to land.<br />&nbsp;(2) An encumbrance does not have to be registered against the title to land.<br />&nbsp;(3) A lien would not constitute an encumbrance, even if it is registered against the title to land.<br />&nbsp;(4) Even if a mortgage is not registered against the title to land, it can still be considered an encumbrance.",
+    "answer": "Which of the following is <strong>true</strong> regarding <strong>encumbrances</strong>?<br />&nbsp;<strong>(1) An encumbrance is a judgment, mortgage or lien or any other claim which is registered against the title to land.</strong><br />&nbsp;(2) An encumbrance does not have to be registered against the title to land.<br />&nbsp;(3) A lien would not constitute an encumbrance, even if it is registered against the title to land.<br />&nbsp;(4) Even if a mortgage is not registered against the title to land, it can still be considered an encumbrance."
+  },
+  {
+    "question": "Define <strong>fee simple</strong>.",
+    "answer": "Fee simple is the legal term for the maximum interest in land available to a person, or the maximum of legal ownership. In many ways, a fee simple is equivalent to  absolute ownership."
+  },
+  {
+    "question": "A <strong>fixture</strong> is a chattel attached to real property; it is anything which has become so attached to the land as to form, in law, part of the land.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "A <strong>fixture</strong> is a chattel attached to real property; it is anything which has become so attached to the land as to form, in law, part of the land.<br />&nbsp;<strong>(1) True</strong><br />&nbsp;(2) False"
+  },
+  {
+    "question": "A joint tenancy is where two or more persons acquire an _________ _________ interest in a property. When one person dies, that person's share automatically goes to the _________ _________ _________.",
+    "answer": "A joint tenancy is where two or more persons acquire an <strong>equal undivided</strong> interest in a property. When one person dies, that person's share automatically goes to the <strong>surviving joint tenant(s)</strong>."
+  },
+  {
+    "question": "With respect to real property, a <strong>licence</strong> is a privilege to enter premises for a certain purpose. This privilege confers upon the licensee a degree of title, interest or estate in such property (e.g., exclusive right to possession of the property).<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "With respect to real property, a <strong>licence</strong> is a privilege to enter premises for a certain purpose. This privilege confers upon the licensee a degree of title, interest or estate in such property (e.g., exclusive right to possession of the property).<br />&nbsp;(1) True<br />&nbsp;<strong>(2) False</strong><br />With respect to real property, a licence confers a privilege to enter premises for a certain purpose. However, this privilege does not confer upon the licensee any title, interest or estate in such property (e.g., exclusive right to possession of the property). Examples of a licence include a hotel suite where monthly rates may be available but the innkeeper has the right to enter the suite at his pleasure."
+  },
+  {
+    "question": "A <strong>life estate</strong> is an interest in land to be enjoyed during a person's life, and may be carried on after that person's death.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "A <strong>life estate</strong> is an interest in land to be enjoyed during a person's life, and may be carried on after that person's death.<br />&nbsp;(1) True<br />&nbsp;<strong>(2) False</strong><br />A life estate may be enjoyed during the holder's life; however, the life estate ends on that person's death."
+  },
+  {
+    "question": "A life estate ____ _______ ____ is the form of life estate where length of estate is measured against the life of another person.",
+    "answer": "A life estate <strong>pur autre vie</strong> is the form of life estate where length of estate is measured against the life of another person."
+  },
+  {
+    "question": "What is a <strong>profit &agrave; prendre</strong>?<br />&nbsp;(1) A right to take the produce or part of the soil from the lands of another.<br />&nbsp;(2) A right of the government to take land for a public use if it results in an overall betterment for society.<br />&nbsp;(3) The profit received by a mortgagee after foreclosure.<br />&nbsp;(4) The profit received in a taking.",
+    "answer": "A profit &agrave; prendre is:<br />&nbsp;(1) A right to take the produce or part of the soil from the lands of another."
+  },
+  {
+    "question": "What is a <strong>restrictive covenant</strong>?",
+    "answer": "A restrictive convenant is a covenant restricting the use of the land of the covenantor (the servient tenement) for the benefit of land belonging to the covenantee (the dominant tenement). An example would be a restriction on the height of a building on one piece of land so that adjacent or adjoining lands are not deprived of a view."
+  },
+  {
+    "question": "Define <strong>servient tenement</strong>.",
+    "answer": "A servient tenement is land bearing the burden of an easement or other right (i.e., restrictive covenant)."
+  },
+  {
+    "question": "The right to have one's ground supported so that it will not cave in when an adjoining owner makes an excavation is known as:<br />&nbsp;(1) support.<br />&nbsp;(2) ground rule.<br />&nbsp;(3) non-excavation.<br />&nbsp;(4) none of the above.",
+    "answer": "The right to have one's ground supported so that it will not cave in when an adjoining owner makes an excavation is known as:<br />&nbsp;(1) support."
+  },
+  {
+    "question": "A <strong>tenancy in common</strong> is where two or more persons acquire ________ in a single ________ and each may sell or bequeath their interest. Additionally, in the event of death, their interest becomes a part of their _______.",
+    "answer": "A tenancy in common is where two or more persons acquire <strong>interests</strong> in a single <strong>property</strong> and each may sell or bequeath their interest. Additionally, in the event of death, their interest becomes a part of their <strong>estate</strong>."
+  },
+  {
+    "question": "Name an example of a form of <strong>waste</strong> as it pertains to real property.",
+    "answer": "There are three types of common law waste and one type of equitable waste. <strong>Voluntary waste</strong> consists of direct, positive acts that result in damage to the property beyond the use a life tenant is entitled to make. It includes such things as pulling down a garage or cutting a stand of timber. <strong>Permissive waste</strong>  consists of allowing a property to deteriorate without any positive acts of the life tenant. An example of permissive waste would be where a life tenant simply allows the building on the property to decay and does nothing to prevent this. <strong>Ameliorating waste</strong>  consists of direct, positive acts which improve rather than destroy the property. An example would be the construction of a tool shed on the property. <strong>Equitable waste</strong>  occurs when a life tenant who is not liable for common law waste decides to destroy the buildings on the property so that the remainderman would have little or nothing of value to inherit."
+  },
+  {
+    "question": "A ________ ________ refers to a group of restrictive covenants attaching to two or more lots within a particular development plan, and which usually aims at ensuring that a certain level of uniformity is maintained within the development. ",
+    "answer": "A <strong>building scheme</strong> refers to a group of restrictive covenants attaching to two or more lots within a particular development plan, and which usually aims at ensuring that a certain level of uniformity is maintained within the development."
+  }
+]

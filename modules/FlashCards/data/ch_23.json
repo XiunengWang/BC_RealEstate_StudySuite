@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Define <strong>capitalization rate</strong> and explain how it can be estimated.",
+    "answer": "Capitalization rate is the return an investor requires for investing in a property to receive the annual net operating income flows. It can be estimated from similar properties by dividing their estimated net operating incomes by the prices at which the properties sell."
+  },
+  {
+    "question": "The <strong>income method</strong>, also called the __________ method, is an appraisal method that is typically used for income-producing properties. It converts the income stream produced by the property into a _________ value for the property by using a ____________ rate.",
+    "answer": "The income method, also called the <strong>investment</strong> method, is an appraisal method that is typically used for income-producing properties. It converts the income stream produced by the property into a <strong>market</strong> value for the property by using a <strong>capitalization</strong> rate."
+  },
+  {
+    "question": "Define <strong>gross potential rent</strong>.",
+    "answer": "Gross potential rent is the rent which would be collected if all units were leased at market rents."
+  },
+  {
+    "question": "Which of the following is TRUE?<br />&nbsp;(1) Gross potential revenue includes income from other sources such as parking income and laundry income.<br />&nbsp;(2) Gross potential revenue is found by subtracting operating expenses from gross realized revenue.",
+    "answer": "Which of the following is TRUE?<br />&nbsp;<strong>(1) Gross potential revenue includes income from other sources such as parking income and laundry income.</strong><br />&nbsp;(2) Gross potential revenue is found by subtracting operating expenses from gross realized revenue."
+  },
+  {
+    "question": "<strong>Gross realized revenue</strong> is calculated by taking gross _________ revenue and ____________ an allowance for vacancy and ______ debt.",
+    "answer": "Gross realized revenue is calculated by taking gross <strong>potential</strong> revenue and <strong>subtracting</strong> an allowance for vacancy and <strong>bad</strong> debt."
+  },
+  {
+    "question": "Name the four items that are omitted in calculating net operating income. ",
+    "answer": "depreciation, income tax, capital cost allowance, debt service"
+  },
+  {
+    "question": "The general framework for calculating net operating income is as follows:<br />&nbsp;Gross Potential Revenue<br />&nbsp;+ Other Income<br />&nbsp;-&nbsp;&nbsp;Vacancy and Bad debt allowance<br />&nbsp;= ___________<br />&nbsp;-&nbsp;&nbsp;___________<br />&nbsp;= NOI",
+    "answer": "The general framework for calculating net operating income is as follows:<br />&nbsp;Gross Potential Revenue<br />&nbsp;+ Other Income<br />&nbsp;-&nbsp;&nbsp;Vacancy and Bad debt allowance<br />&nbsp;= <strong>Gross Realized Revenue</strong><br />&nbsp;-&nbsp;&nbsp;<strong>Operating Expenses</strong><br />&nbsp;= NOI"
+  },
+  {
+    "question": "How should the vacancy allowance be determined? ",
+    "answer": "The vacancy allowance should be determined by the long-term vacancy rates in the area; that is, the vacancies in comparable buildings modified, if necessary, by expected future trends."
+  },
+  {
+    "question": "Expenses that must be paid regardless of the level of occupancy and use of the property are referred as ____________ expenses, whereas expenses that will vary based upon the nature of the occupancy of the property and the amount of lease activity required to maintain full occupancy, are referred as ____________ expenses.",
+    "answer": "Expenses that must be paid regardless of the level of occupancy and use of the property are referred as <strong>fixed</strong> expenses, whereas expenses that will vary based upon the nature of the occupancy of the property and the amount of lease activity required to maintain full occupancy, are referred as <strong>variable</strong> expenses."
+  },
+  {
+    "question": "Real property taxes are an example of a ______ expense.",
+    "answer": "Real property taxes are an example of a <strong>fixed</strong> expense."
+  }
+]

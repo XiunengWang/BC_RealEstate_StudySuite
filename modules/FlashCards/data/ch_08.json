@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is a <strong>balance sheet</strong>?",
+    "answer": "A balance sheet is a financial statement listing assets, liabilities, and owners' equity at a specific point in time. It is also known as a statement of financial position or statement of assets and liabilities."
+  },
+  {
+    "question": "Define <strong>accrual basis</strong>.",
+    "answer": "Accrual basis is an accounting procedure that recognizes revenue at the time it is earned, as opposed to when it is actually received. This method ties in with the revenue principle."
+  },
+  {
+    "question": "Define <strong>book value</strong> in accounting terms.",
+    "answer": "Book value is the original cost of a noncurrent asset less all depreciation claimed to date."
+  },
+  {
+    "question": "What is the <strong>book value</strong> in terms of a mortgage, and when is it equal to the face value of a mortgage?",
+    "answer": "The book value is the original face value of the mortgage less the amount of principal repayment, or the mortgage amount outstanding at a particular point in time. At origination, the book value and face value are the same."
+  },
+  {
+    "question": "What is <strong>Capital Cost Allowance (CCA)</strong> and how much CCA may be claimed in the first and last year of a holding period?",
+    "answer": "Capital Cost Allowance (CCA) is the amount that an owner of an income producing asset is allowed to deduct as an expense for Income Tax purposes as a result of ownership of that depreciable asset. Only one-half of the ordinary CCA may be claimed in the first year of the holding period; no CCA may be claimed in the year of sale."
+  },
+  {
+    "question": "When is revenue recognized, when using the <strong>cash basis</strong> of accounting?",
+    "answer": "The cash basis of accounting recognizes revenue at the time it is actually received in cash form. This is in contrast to the accrual basis."
+  },
+  {
+    "question": "How does one apply the <strong>consistency principle</strong> in accounting?",
+    "answer": "The consistency principle states that once a firm has selected a method of recording financial transactions from a number of alternative options, all of which are acceptable under Generally Accepted Accounting Principles (GAAP), it will apply those principles over subsequent accounting periods."
+  },
+  {
+    "question": "The directors are primarily liable to the shareholders rather than to the company.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "The directors are primarily liable to the shareholders rather than to the company.<br />&nbsp;(1) True<br />&nbsp;<strong>(2) False</strong><br />The directors are primarily liable to the company."
+  },
+  {
+    "question": "A <strong>Generally Accepted Accounting Principle</strong> known as the _______ ___________, states that the historical cost of an asset must be reflected in a company's financial statements.",
+    "answer": "A Generally Accepted Accounting Principle known as the <strong>cost principle</strong> states that the historical cost of an asset must be reflected in a company's financial statements."
+  },
+  {
+    "question": "Current assets will be converted into cash, sold, or consumed within ___ year or the _______ operating cycle of a business, whichever is longer. Current assets may include cash, marketable securities, accounts receivable, inventories and prepaid ________.",
+    "answer": "Current assets will be converted into cash, sold, or consumed within <strong>one</strong> year or the <strong>normal</strong> operating cycle of a business, whichever is longer. Current assets may include cash, marketable securities, accounts receivable, inventories and prepaid <strong>expenses</strong>."
+  }
+]

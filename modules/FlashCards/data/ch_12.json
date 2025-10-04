@@ -1,0 +1,162 @@
+[
+  {
+    "question": "What is an <strong>agent</strong> at common law?",
+    "answer": "At common law, an agent is any person who contracts to act for or on behalf of another, who in turn, is known as the principal."
+  },
+  {
+    "question": "A warranty of __________ is an agent's guarantee to third parties that their actions fall within the scope of authority given by the _________.",
+    "answer": "A warranty of <strong>authority</strong> is an agent's guarantee to third parties that their actions fall within the scope of authority given by the <strong>principal</strong>."
+  },
+  {
+    "question": "The agency relationship may be terminated by the death, insanity or bankruptcy of either the principal or agent.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "The agency relationship may be terminated by the death, insanity or bankruptcy of either the principal or agent.<br />&nbsp;<strong>(1) True</strong><br />&nbsp;(2) False"
+  },
+  {
+    "question": "A conflict of interest is ___________. ",
+    "answer": "A conflict of interest is <strong>a situation in which there is a temptation for the agent to act in their own interest or a third party's interest rather than in the sole interest of the principal</strong>."
+  },
+  {
+    "question": "When licensees fulfill their disclosure obligations with relevant and meaningful information, they reduce their risk of consumer _______ and ______.",
+    "answer": "When licensees fulfill their disclosure obligations with relevant and meaningful information, they reduce their risk of consumer <strong>complaints</strong> and <strong>lawsuits</strong>."
+  },
+  {
+    "question": "What is a major risk to unrepresented consumers identified in the Disclosure of Risks to Unrepresented Parties form?",
+    "answer": "That the licensee’s undivided loyalty is to their client and that they have no loyalty to the unrepresented party."
+  },
+  {
+    "question": "When is a licensee required to provide a Disclosure of Representation in Trading Services form to a consumer?",
+    "answer": "Before providing trading services to or on behalf of a party to a trade in real estate; however, there are exceptions if the licensee is only hosting an advertised open house or is only providing factual responses to general questions from the consumer."
+  },
+  {
+    "question": "When is a licensee required to provide a Disclosure of Risks to Unrepresented Parties form to an unrepresented party?",
+    "answer": "When the licensee is currently representing a client in a real estate transaction and also provides trading services to an unrepresented party in that same transaction, where a Disclosure of Representation in Trading Services form would have to be provided to that unrepresented party."
+  },
+  {
+    "question": "When is a licensee required to provide a Disclosure of Risks Associated with Dual Agency form to a consumer?",
+    "answer": "Before a licensee provides trading services in the narrow exception permitted for providing dual agency &mdash; when the trade in real estate is in a remote location that is under-served by licensees and it is impracticable for the parties to be provided trading services by different licensees."
+  },
+  {
+    "question": "When is a licensee required to make a disclosure of remuneration? ",
+    "answer": "When a licensee receives or anticipates receiving, directly or indirectly, remuneration, other than remuneration paid directly by a client, in connection with the client and/or real estate services provided."
+  },
+  {
+    "question": "When is a licensee required to provide a Disclosure of Expected Remuneration (Payment) form to a seller?",
+    "answer": "When a licensee acting for the seller presents an offer to acquire real estate to a seller."
+  },
+  {
+    "question": "When is a licensee required to provide a Disclosure of Interest in Trade form?",
+    "answer": "When a licensee or an associate of a licensee (being provided real estate services by the licensee) is to directly or indirectly acquire or dispose of real estate."
+  },
+  {
+    "question": "When is a licensee required to provide a Notice to Seller Regarding Assignment Terms form?",
+    "answer": "Whenever a licensee, providing trading services to or on behalf of a buyer, presents an offer to the seller (or seller’s licensee) that does not contain the assignment terms contained in the Real Estate Services Regulation. "
+  },
+  {
+    "question": "In what circumstances must a listing licensee disclose a material latent defect in a seller’s real estate to a buyer?",
+    "answer": "When a licensee, providing services to the seller, is aware of an undisclosed material latent defect in the real estate, and no written disclosure of the defect has already been made by the seller. "
+  },
+  {
+    "question": "What should a licensee do if a seller instructs them not to disclose a material latent defect in the property?",
+    "answer": "The licensee must tell the principal that the instructions are unlawful and that they cannot comply with them. If the principal insists on the agent following the instructions, the agent should discontinue acting for the principal."
+  },
+  {
+    "question": "All of the fiduciary duties that a licensee owes to their client end when the relationship between the two end.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "All of the fiduciary duties that a licensee owes to their client end when the relationship between the two end.<br />&nbsp;(1) True<br />&nbsp;<strong>(2) False</strong><br /><br />The duty of confidentiality lasts beyond the end of the relationship between the licensee and their client."
+  },
+  {
+    "question": "The type of agency relationship that describes the situation where the licensee represents only one party in a given transaction as a client is a ______ ______ ______.",
+    "answer": "The type of agency relationship that describes the situation where the licensee represents only one party in a given transaction as a client is a <strong>sole agency relationship</strong>."
+  },
+  {
+    "question": "Dual agency has been completely banned in British Columbia.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "Dual agency has been completely banned in British Columbia.<br />&nbsp;(1) True<br />&nbsp;<strong>(2) False</strong><br />There is a narrow exception for providing dual agency set out in the Real Estate Services Rules (the real estate must be in a remote location, that location must be underserved by licensees, and it must be impracticable for the parties to be provided with trading services by different licensees)."
+  },
+  {
+    "question": "An \"unrepresented party\" in a real estate transaction is __________.",
+    "answer": "An \"unrepresented party\" in a real estate transaction is  <strong>someone who is not a client of a licensee in the real estate transaction</strong>."
+  },
+  {
+    "question": "A licensee designated by the brokerage to act as the sole agent of a client is referred to as a _________ ________.",
+    "answer": "A licensee designated by the brokerage to act as the sole agent of a client is referred to as a <strong>designated agent</strong>."
+  },
+  {
+    "question": "Any person of sound mind can apply to be licensed as a real estate agent.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "Any person of sound mind can apply to be licensed as a real estate agent.<br />&nbsp;(1) True<br />&nbsp;<strong>(2) False</strong><br />Under the Real Estate Services Act, a real estate licensee must be, among other things, at least 19 years of age."
+  },
+  {
+    "question": "When a principal later consents to being bound by the authorized acts of an agent, this is referred to as _______ ___ _____.",
+    "answer": "When a principal later consents to being bound by the authorized acts of an agent, this is referred to as <strong>agency by ratification</strong>."
+  },
+  {
+    "question": "The overarching fiduciary duty of a real estate licensee to their client is the duty of ________.",
+    "answer": "The overarching fiduciary duty of a real estate licensee to their client is the duty of <strong>loyalty</strong>."
+  },
+  {
+    "question": "An agent in a conflict of interest has not necessarily done something wrong.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "An agent in a conflict of interest has not necessarily done something wrong.<br />&nbsp;<strong>(1) True</strong><br />&nbsp;(2) False<br />The presence of a conflict of interest does not automatically mean that the agent has done something wrong. Some conflicts are unavoidable and the law focuses on how the agent handles the conflict."
+  },
+  {
+    "question": "What is the duty of full disclosure?",
+    "answer": "A fiduciary duty of an agent to act in a transparent manner with respect to their principal’s affairs."
+  },
+  {
+    "question": "An agent may disclose the confidential information of a principal with the principal’s express permission.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "An agent may disclose the confidential information of a principal with the principal’s express permission.<br />&nbsp;<strong>(1) True</strong><br />&nbsp;(2) False"
+  },
+  {
+    "question": "The key section of the Real Estate Services Rules that contains the important duties owed by brokerages and licensees to their clients is ________.",
+    "answer": "The key section of the Real Estate Services Rules that contains the important duties owed by brokerages and licensees to their clients is <strong>section 30</strong>."
+  },
+  {
+    "question": "What are the three key duties owed by a principal to an agent?",
+    "answer": "The duty to comply with the agency agreement, the duty to remunerate the agent, and the duty to indemnify the agent. "
+  },
+  {
+    "question": "A licensee may provide trading services to a consumer in a no agency relationship.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "A licensee may provide trading services to a consumer in a no agency relationship.<br />&nbsp;<strong>(1) True</strong><br />&nbsp;(2) False<br />However, the types of trading services that may be offered to the consumer (who will be known as an \"unrepresented party\") are limited."
+  },
+  {
+    "question": "The disclosure of representation in trading services requirement under section 54 of the Real Estate Services Rules can be fulfilled by using <em>BCREA's Working with a REALTOR<sup>&reg;</sup></em> brochure.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "The disclosure of representation in trading services requirement under section 54 of the Real Estate Services Rules can be fulfilled by using <em>BCREA's Working with a REALTOR<sup>&reg;</sup></em> brochure.<br />&nbsp;(1) True<br />&nbsp;<strong>(2) False</strong><br />Section 54 can only be fulfilled by using the Disclosure of Representation in Trading Services form required by the BC Financial Services Authority."
+  },
+  {
+    "question": "For a licensee to offer dual agency, it must be _______ for the parties to be provided trading services by different licensees, among other things.",
+    "answer": "For a licensee to offer dual agency, it must be <strong>impracticable</strong> for the parties to be provided trading services by different licensees, among other things."
+  },
+  {
+    "question": "Compared to the services that a licensee can offer a client, the services that they can offer an unrepresented party are:<br />&nbsp;(1) substantially similar.<br />&nbsp;(2) non-existent.<br />&nbsp;(3) greater.<br />&nbsp;(4) greatly limited.",
+    "answer": "Compared to the services that a licensee can offer a client, the services that they can offer an unrepresented party are:<br />&nbsp;(1) substantially similar.<br />&nbsp;(2) non-existent.<br />&nbsp;(3) greater.<br />&nbsp;<strong>(4) greatly limited</strong>."
+  },
+  {
+    "question": "Is a licensee required to provide a Disclosure of Representation in Trading Services form to all consumers who attend an advertised open house hosted by the licensee?",
+    "answer": "No, it is not required as long as the licensee does not solicit or receive information from potential buyers at the open house about their motivation, financial qualifications, or needs in respect of real estate."
+  },
+  {
+    "question": "Is a licensee who hosts an open house required to provide a Disclosure of Representation in Trading Services form to a potential buyer who attends the open house with their own licensee?",
+    "answer": "No."
+  },
+  {
+    "question": "When a licensee provides a Disclosure of Risks to Unrepresented Parties form to an unrepresented party, the licensee must also provide _________ form.  ",
+    "answer": "When a licensee provides a Disclosure of Risks to Unrepresented Parties form to an unrepresented party, the licensee must also provide <strong>a Disclosure of Representation in Trading Services</strong> form.  "
+  },
+  {
+    "question": "Can an individual licensee at a brokerage represent a buyer when another licensee at the brokerage is representing a seller in the same transaction?",
+    "answer": "Yes, provided the brokerage practices designated agency."
+  },
+  {
+    "question": "Under section 65 of the Real Estate Services Rules, if a licensee has two current clients in a conflict of interest with each other, the licensee is permitted to represent both clients if both clients sign an Agreement Regarding Conflict of Interest Between Clients.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "Under section 65 of the Real Estate Services Rules, if a licensee has two current clients in a conflict of interest with each other, the licensee is permitted to represent both clients if both clients sign an Agreement Regarding Conflict of Interest Between Clients.<br />&nbsp;(1) True<br />&nbsp;<strong>(2) False</strong><br/ >A licensee may only continue to represent one client if both clients sign an Agreement Regarding Conflict of Interest Between Clients."
+  },
+  {
+    "question": "Authority that is given to the agent by the principal in the agency agreement is known as _________ __________.",
+    "answer": "Authority that is given to the agent by the principal in the agency agreement is known as <strong>actual authority</strong>."
+  },
+  {
+    "question": "To indemnify is to guarantee against loss that another might suffer.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "To indemnify is to guarantee against loss that another might suffer.<br />&nbsp;<strong>(1) True</strong><br />&nbsp;(2) False"
+  },
+  {
+    "question": "Undisclosed remuneration or benefits received by an agent as a result of, or in the course of, performing duties on behalf of the principal is known as a(n) __________ __________.",
+    "answer": "Undisclosed remuneration or benefits received by an agent as a result of, or in the course of, performing duties on behalf of the principal is known as a(n) <strong>secret profit</strong>."
+  }
+]

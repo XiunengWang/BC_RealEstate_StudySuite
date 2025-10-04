@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is an <strong>acceleration clause</strong>?",
+    "answer": "An acceleration clause allows the lender, upon the borrower’s default, to demand payment in full of the outstanding balance on the mortgage even if the mortgage has not yet matured."
+  },
+  {
+    "question": "What is an <strong>agreement for sale</strong> and how is it registered?",
+    "answer": "An agreement for sale is a contract by which the owner of land (vendor) agrees to sell land to another (purchaser). The vendor grants the purchaser immediate possession of the property in exchange for the purchaser's promise to pay the purchase price by instalments over a period of time. The purchaser's interest is registered in the Land Title Office as a charge against the vendor's certificate of title, and the vendor will remain on title as the registered owner until the final payment has been made."
+  },
+  {
+    "question": "What is an <strong>assumable mortgage</strong>?",
+    "answer": "An assumable mortgage allows a purchaser to assume or take over the responsibilities and liabilities under the mortgage from the vendor."
+  },
+  {
+    "question": "An <strong>equitable mortgage</strong> is the transfer of equity in property as security for a debt. It is always the first mortgage on title.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "An <strong>equitable mortgage</strong> is the transfer of equity in property as security for a debt. It is always the first mortgage on title.<br />&nbsp;(1) True<br />&nbsp;<strong>(2) False</strong><br />It is the transfer of equity in property as security for a debt. An equitable mortgage does not always have to be the first mortgage on title &#45; it can be any mortgage registered on title."
+  },
+  {
+    "question": "<strong>Equity of redemption</strong> is the mortgagee's right to repay the mortgage.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "<strong>Equity of redemption</strong> is the mortgagee's right to repay the mortgage.<br />&nbsp;(1) True<br />&nbsp;<strong>(2) False</strong><br />Equity of redemption is the mortgagor's right to repay the mortgage."
+  },
+  {
+    "question": "A <strong>foreclosure</strong> is what type of legal action?",
+    "answer": "Foreclosure is a legal action taken by a mortgagee to realize on its security, by reason of the mortgagor’s default on the mortgage."
+  },
+  {
+    "question": "What is a <strong>guarantor</strong>?",
+    "answer": "A guarantor is someone who becomes contingently or secondarily liable for another's debt or performance."
+  },
+  {
+    "question": "A mortgage is a document evidencing a debt owed by the _________ to the __________. Registration of the mortgage in the ________ _______ Office transfers the __________'s interest in land to the _________ as security for repayment of debt.",
+    "answer": "A mortgage is a document evidencing a debt owed by the <strong>mortgagor</strong> to the <strong>mortgagee</strong>. Registration of the mortgage in the <strong>Land Title</strong> Office transfers the <strong>mortgagor</strong>'s interest in land to the <strong>mortgagee</strong> as security for repayment of debt."
+  },
+  {
+    "question": "What is another name for the <strong>mortgagee</strong>?",
+    "answer": "Another name for the mortgagee is the lender."
+  },
+  {
+    "question": "What is another name for the <strong>mortgagor</strong>?",
+    "answer": "Another name for the mortgagor is the borrower."
+  },
+  {
+    "question": "A __________ refers to a creditor's acceptance of a third party in place of the debtor so that the third party becomes the debtor and the original debtor is released by the creditor from having to pay off the debt.",
+    "answer": "A <strong>novation</strong> refers to a creditor's acceptance of a third party in place of the debtor so that the third party becomes the debtor and the original debtor is released by the creditor from having to pay off the debt."
+  },
+  {
+    "question": "What is a <strong>vendor take-back mortgage</strong>?",
+    "answer": "A vendor take-back mortgage is a mortgage taken back by the vendor from the purchaser to facilitate a sale, whereby the vendor becomes the mortgagee and the purchaser becomes the mortgagor."
+  },
+  {
+    "question": "The principle that a borrower cannot be prevented by the terms of the mortgage from eventually redeeming their property free from the conditions contained in the mortgage is known as the ___________ ___________ ___________.",
+    "answer": "The principle that a borrower cannot be prevented by the terms of the mortgage from eventually redeeming their property free from the conditions contained in the mortgage is known as the <strong>prohibition against clogging</strong>."
+  },
+  {
+    "question": "British Columbia's Mortgage Brokers Act contains various prohibitions against theft or fraud related to mortgage transactions.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "British Columbia's Mortgage Brokers Act contains various prohibitions against theft or fraud related to mortgage transactions.<br />&nbsp;(1) True<br />&nbsp;<strong>(2) False</strong><br />Although the Mortgage Brokers Act regulates persons who deal in mortgages within the province, it is the Criminal Code that contains various prohibitions against theft or fraud related to mortgage transactions."
+  },
+  {
+    "question": "Which statute dealing with interest rates contains provisions allowing a court to intervene where the cost of the loan is excessive and the transaction is harsh and unconscionable?<br />&nbsp;(1) The Interest Act<br />&nbsp;(2) The Business Practices and Consumer Protection Act<br />&nbsp;(3) The Criminal Code<br />&nbsp;(4) The Mortgage Brokers Act",
+    "answer": "Which statute dealing with interest rates contains provisions allowing a court to intervene where the cost of the loan is excessive and the transaction is harsh and unconscionable?<br />&nbsp;(1) The Interest Act<br />&nbsp;<strong>(2) The Business Practices and Consumer Protection Act</strong><br />&nbsp;(3) The Criminal Code<br />&nbsp;(4) The Mortgage Brokers Act"
+  },
+  {
+    "question": "What is an indemnity clause?",
+    "answer": "An indemnity clause requires an amount equal to three months’ interest to be paid where the lender has had to recover the loan after default.  While indemnity clauses are commonly found in many mortgages, they are unenforceable according to the Interest Act."
+  },
+  {
+    "question": "How does providing a lender with the duplicate certificate of title provide security for a loan?",
+    "answer": "Once the duplicate certificate of title is taken out of the land title office, the registrar will refuse to register certain subsequent dealings with the land in question such as a transfer, mortgage, or long term lease until it is returned to the registrar for cancellation."
+  },
+  {
+    "question": "In British Columbia, if a collateral advantage was intended to be a term of the mortgage, it will be ______ if it continues after redemption.",
+    "answer": "In British Columbia, if a collateral advantage was intended to be a term of the mortgage, it will be <strong>void</strong> if it continues after redemption."
+  },
+  {
+    "question": "What is a reverse annuity mortgage?",
+    "answer": "A reverse annuity mortgage occurs when the lender makes periodic payments to the borrower during the loan term.  At the end of the term, the borrower will have to repay the balance owing by refinancing or selling the property."
+  },
+  {
+    "question": "A lender is unable to maintain a direct action against a purchaser who has assumed the mortgage or taken over a vendor’s interest under an agreement for sale.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "A lender is unable to maintain a direct action against a purchaser who has assumed the mortgage or taken over a vendor’s interest under an agreement for sale.<br />&nbsp;(1) True<br />&nbsp;<strong>(2) False</strong><br />Under contract law principles (the doctrine of privity of contract) it would not be possible for a lender to sue a purchaser who assumes a vendor’s mortgage under the covenant to pay contained in the mortgage because the purchaser assuming the mortgage was not a party to the original agreement. However, the Property Law Act allows the lender to sue the purchaser directly to recover the debt where the purchaser is obligated to indemnify the vendor."
+  }
+]

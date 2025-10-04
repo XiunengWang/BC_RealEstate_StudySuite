@@ -1,0 +1,42 @@
+[
+  {
+    "question": "For important transaction-related data, it is advisable to retain hard copies.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "For important transaction-related data, it is advisable to retain hard copies.<br />&nbsp;<strong>(1) True</strong><br />&nbsp;(2) False<br />Especially if they contain written notation, signatures or initials."
+  },
+  {
+    "question": "To be effective, digital signatures must be \\unforgeable\" and therefore use a technology called _______.\"",
+    "answer": "To be effective, digital signatures must be \\unforgeable\" and therefore use a technology called <strong>cryptography</strong>.\""
+  },
+  {
+    "question": "Printers, scanners and digital cameras would be good examples of _________.",
+    "answer": "Printers, scanners and digital cameras would be good examples of <strong>peripherals</strong>."
+  },
+  {
+    "question": "A computer program designed specifically to damage or disrupt a system is known as _______.",
+    "answer": "A computer program designed specifically to damage or disrupt a system is known as <strong>malware</strong>."
+  },
+  {
+    "question": "What is the <strong>Multiple Listing Service</strong>?",
+    "answer": "The Multiple Listing Service provides current inventory of available properties and a history of sales in a geographic area. The purpose is to maximize property exposure for the seller and provide a high degree of accuracy of information for potential buyers."
+  },
+  {
+    "question": "Describe <strong>email etiquette</strong>.",
+    "answer": "Email etiquette includes, but is not limited to the following: answering emails prompty, avoiding grammatical errors, starting messages with a salutation, ending messages with your name, keeping messages concise, avoiding ALL CAPS, and avoid using clich&eacute; taglines."
+  },
+  {
+    "question": "What does the <strong>internet domain</strong> \".com\" imply?\"",
+    "answer": "\".com\" implies that the domain is meant for commercial purposes.\""
+  },
+  {
+    "question": "Describe <strong>web libraries</strong>.",
+    "answer": "Web libraries are websites that collect, categorize, and index large amounts of information."
+  },
+  {
+    "question": "A _______ is an integrated collection of security measures designed to prevent unauthorized electronic access to a networked computer system.",
+    "answer": "A <strong>firewall</strong> is an integrated collection of security measures designed to prevent unauthorized electronic access to a networked computer system."
+  },
+  {
+    "question": "The ________ _________ ________ ______ regulates the way private sector organizations collect, use, keep secure and disclose personal information in BC.",
+    "answer": "The <strong>Personal Information Protection Act</strong> regulates the way private sector organizations collect, use, keep secure and disclose personal information in BC."
+  }
+]

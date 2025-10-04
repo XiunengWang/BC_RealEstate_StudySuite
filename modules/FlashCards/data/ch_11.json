@@ -1,0 +1,34 @@
+[
+  {
+    "question": "A <strong>deposit</strong> is:<br />&nbsp;(1) an amount deposited with a brokerage by the purchaser when an offer to purchase is made.<br />&nbsp;(2) an amount deposited with a sales agent by the purchaser when an offer to purchase is made.<br />&nbsp;(3) an amount deposited with a brokerage by the purchaser before the offer to purchase is made.<br />&nbsp;(4) Both (1) and (2) are correct.",
+    "answer": "A deposit is:<br />&nbsp;(1) an amount deposited with a brokerage by the purchaser when an offer to purchase is made."
+  },
+  {
+    "question": "Define <strong>listing agreement</strong>.",
+    "answer": "A listing agreement is a contract between an owner (vendor) and a real estate licensee whereby the licensee agrees to try to find a purchase for the listed property in return for the vendor paying a stipulated amount of commission should the licensee be successful."
+  },
+  {
+    "question": "Which of the following correctly describes a <strong>listing price</strong>?<br />&nbsp;(1) The value at which a property will be sold.<br />&nbsp;(2) The value at which a property is advertised for sale.<br />&nbsp;(3) The value at which a property is appraised.<br />&nbsp;(4) None of the above correctly describe a listing price.",
+    "answer": "A listing price is:<br />&nbsp;(2) The value at which a property is advertised for sale."
+  },
+  {
+    "question": "A <strong>time clause</strong> in a contract of purchase and sale allows a party to invoke a time period in which a ________ precedent must be ________. If this does not occur within the time period, the result would be ________ of the contract.",
+    "answer": "A time clause in a contract of purchase and sale allows a party to invoke a time period in which a <strong>condition</strong> precedent must be <strong>removed</strong>. If this does not occur within the time period, the result would be <strong>termination</strong> of the contract."
+  },
+  {
+    "question": "A potential purchaser of real estate can enforce the terms of a listing agreement.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "A potential purchaser of real estate can enforce the terms of a listing agreement.<br />&nbsp;(1) True<br />&nbsp;<strong>(2) False</strong><br />Only the parties to a contract can enforce its terms. The parties to a listing agreement are the agent(s) and seller(s). Therefore, purchasers cannot enforce the terms in a listing agreement because they lack privity of contract."
+  },
+  {
+    "question": "The __________ Act is a _________ statute designed to eliminate privately imposed restraints on trade.",
+    "answer": "The <strong>Competition</strong> Act is a <strong>federal</strong> statute designed to eliminate privately imposed restraints on trade."
+  },
+  {
+    "question": "A brokerage that holds a deposit on behalf of all the parties to a real estate contract, unless agreed to otherwise, holds that deposit as a ___________.",
+    "answer": "A brokerage that holds a deposit on behalf of all the parties to a real estate contract, unless agreed to otherwise, holds that deposit as a <strong>stakeholder</strong>."
+  },
+  {
+    "question": "What happens when a contract contains a subject clause that is too subjective?",
+    "answer": "When a contract contains a subject clause that is too subjective, the courts will declare that the contract process must still be regarded as at the offer stage until the subject clause is removed."
+  }
+]

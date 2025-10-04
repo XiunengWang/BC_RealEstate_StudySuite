@@ -1,0 +1,94 @@
+[
+  {
+    "question": "Who determines <strong>actual value</strong>, and what tax purposes does it hold?",
+    "answer": "Actual value is determined by an assessor, and is calculated based on the value of land and improvements. This value, in thousands of dollars, can be multiplied by the tax rate to calculate real property taxes payable."
+  },
+  {
+    "question": "Which of the following classes of property are granted full or partial <strong>exemption from taxation</strong>?<br />&nbsp;(1) Federal or Provincial Crown land<br />&nbsp;(2) Churches or Places of Worship<br />&nbsp;(3) Rural Residential areas",
+    "answer": "(1) & (2) are granted full or partial exemptions from taxation. Rural residential areas are not exempt from taxation. "
+  },
+  {
+    "question": "What is an <strong>improvement</strong>?",
+    "answer": "An improvement is a structural addition to a land which can be considered to be a fixture."
+  },
+  {
+    "question": "List a few <strong>principal taxation authorities</strong>.",
+    "answer": "Municipalities, surveyors of taxes, Ministry of Education, BC Assessment, Municipal Finance Authority, and regional districts."
+  },
+  {
+    "question": "Generally speaking, who is liable for paying <strong>real property tax</strong>?",
+    "answer": "Generally speaking, real property tax is payable by the owner of the real property being taxed."
+  },
+  {
+    "question": "Under what conditions can someone in BC apply to defer 100% of the net property taxes on their principal place of residence under the regular program?",
+    "answer": "The property owner must have lived in BC for at least one year, be at least 55 years of age, or, a widow or widower, or a permanently physically disabled person."
+  },
+  {
+    "question": "When can a person request an <strong>assessment appeal</strong>?",
+    "answer": "An assessment appeal can be made on any of the following grounds:<br />&nbsp;(1) The name of a person has been wrongfully included/omitted from the roll.<br />&nbsp;(2) A property has been wrongfully included/omitted from the roll.<br />&nbsp;(3) A property has been valued to high/low.<br />&nbsp;(4) A property has been incorrectly classified.<br />&nbsp;(5) An exemption has been wrongfully allowed/disallowed."
+  },
+  {
+    "question": "How do you calculate <strong>real property taxes payable</strong>?",
+    "answer": "Real property taxes payable can be caluclated by multiplying the actual value of the property (in thousands) by the appropriate tax rate."
+  },
+  {
+    "question": "<strong>Taxable value</strong> is:<br />&nbsp;(1) equal to the sale price of a property.<br />&nbsp;(2) a value, in hundreds of dollars, that when multiplied by the tax rate, equals the amount of real property taxes payable.<br />&nbsp;(3) equal to the actual value as determined by the assessor.<br />&nbsp;(4) both (2) and (3).",
+    "answer": "Taxable value is:<br />&nbsp;(3) equal to the actual value as determined by the assessor."
+  },
+  {
+    "question": "In British Columbia, the liability to pay property taxes generally falls on the occupier of the property, whether that be an owner or a tenant.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "In British Columbia, the liability to pay property taxes generally falls on the occupier of the property, whether that be an owner or a tenant.<br />&nbsp;(1) True<br />&nbsp;<strong>(2) False</strong><br />In British Columbia, the liability to pay property taxes generally falls on the owner of the interest in real property being taxed."
+  },
+  {
+    "question": "The two general categories of taxable property in British Columbia are ___________ and _________. ",
+    "answer": "The two general categories of taxable property in British Columbia are <strong>land</strong> and <strong>improvements</strong>."
+  },
+  {
+    "question": "Besides determining the actual value of each parcel of taxable property, what other important task does an assessor do?",
+    "answer": "An important element of assessment is the assignment of a property class, or classes, to a parcel of taxable property. This is important because each class of property may attract a different tax rate."
+  },
+  {
+    "question": "The actual value as of July 1, ______ becomes the tax base for 2013 property taxes.<br />&nbsp;(1) 2012<br />&nbsp;(2) 2013",
+    "answer": "The actual value as of July 1, ______ becomes the tax base for 2013 property taxes.<br />&nbsp;<strong>(1) 2012</strong><br />&nbsp;(2) 2013"
+  },
+  {
+    "question": "When are property assessment notices mailed to owners of real property?",
+    "answer": "Property assessment notices are mailed to owners of real property on December 31."
+  },
+  {
+    "question": "What is the main factor for eligibility for the basic home owner grant for property taxes?",
+    "answer": "The main factor for eligibility for the basic home owner grant is that the owner occupies the property as their principal residence."
+  },
+  {
+    "question": "The first avenue to dispute a property assessment notice is the Property Assessment Appeal Board.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "The first avenue to dispute a property assessment notice is the Property Assessment Appeal Board.<br />&nbsp;(1) True<br />&nbsp;<strong>(2) False</strong><br />The first avenue to dispute a property assessment notice is the Property Assessment Review Panel."
+  },
+  {
+    "question": "While the general basis of assessment in British Columbia is actual value, which is defined as market value, assessment based on other factors may be done to provide protection and relief for specified land uses, such as farm or forest land.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "While the general basis of assessment in British Columbia is actual value, which is defined as market value, assessment based on other factors may be done to provide protection and relief for specified land uses, such as farm or forest land.<br />&nbsp;<strong>(1) True</strong><br />&nbsp;(2) False"
+  },
+  {
+    "question": "GST is designed to apply to every transaction that is not specifically exempted from the tax.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "GST is designed to apply to every transaction that is not specifically exempted from the tax.<br />&nbsp;<strong>(1) True</strong><br />&nbsp;(2) False<br />Despite popular assumptions to the contrary, most types of transactions are subject to GST, and it is only where an exemption is expressly listed in the Excise Tax Act that the burden of GST is removed."
+  },
+  {
+    "question": "A developer who builds a house and markets it towards first time home buyers does not have to charge GST on top of the sale price. <br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "A developer who builds a house and markets it towards first time home buyers does not have to charge GST on top of the sale price. <br />&nbsp;(1) True<br />&nbsp;<strong>(2) False</strong><br/ >A builder who sells a property must impose GST on top of the sale price, regardless of who the property is marketed towards."
+  },
+  {
+    "question": "Leila has constructed a home and grants a 99-year lease in the home to her grandmother who moves in immediately.  Leila owes GST on the value of the newly constructed home. <br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "Leila has constructed a home and grants a 99-year lease in the home to her grandmother who moves in immediately.  Leila owes GST on the value of the newly constructed home. <br />&nbsp;<strong>(1) True</strong><br />&nbsp;(2) False<br />When a builder rents out a newly constructed home to a long-term tenant prior to a sale; the move-in by the tenant triggers the \"self-supply\" rule and GST is owed.  The eventual sale is exempt, given that the tax liability already arose on the move-in."
+  },
+  {
+    "question": "Fair market value is the amount that would have been paid for a property had it been sold in an open market by a willing buyer free of any mortgage or other charge.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "Fair market value is the amount that would have been paid for a property had it been sold in an open market by a willing buyer free of any mortgage or other charge.<br />&nbsp;<strong>(1) True</strong><br />&nbsp;(2) False<br />The definition of fair market value is that it is the amount that would have been paid for a property had it been sold in an open market by a willing buyer free of any mortgage or other charge."
+  },
+  {
+    "question": "What is a special assessment?",
+    "answer": "A special assessment is a method of property tax assessment used for special types of utility and industrial lands and improvements. "
+  },
+  {
+    "question": "A person can complain under the Assessment Act against an entry in the Assessment Roll through an ___________ _____________.",
+    "answer": "A person can complain under the Assessment Act against an entry in the Assessment Roll through an <strong>assessment appeal</strong>."
+  }
+]

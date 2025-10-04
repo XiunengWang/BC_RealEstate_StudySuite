@@ -1,0 +1,70 @@
+[
+  {
+    "question": "Which of the following best describes <strong>deceit</strong>?<br />&nbsp;(1) The legal term for the granting of a lease.<br />&nbsp;(2) A document used to transfer land from one party to another.<br />&nbsp;(3) A fraudulent misrepresentation used by one person to trick another who is ignorant of the true facts.<br />&nbsp;(4) A situation where a person is forced into a contract against their will with the threat of physical force or imprisonment.",
+    "answer": "Deceit is:<br />&nbsp;(3) A fraudulent misrepresentation used by one person to trick another who is ignorant of the true facts."
+  },
+  {
+    "question": "_____________ is a legal term for the failure to use such care as a reasonable and prudent person would use under similar circumstances; it is the doing of some act which a person of ordinary prudence would not have done under similar circumstances or failure to do what a person of ordinary prudence would have done under similar circumstances.",
+    "answer": "<strong>Negligence</strong> is a legal term for the failure to use such care as a reasonable and prudent person would use under similar circumstances; it is the doing of some act which a person of ordinary prudence would not have done under similar circumstances or failure to do what a person of ordinary prudence would have done under similar circumstances."
+  },
+  {
+    "question": "What does the legal principle of <strong>negligent misrepresentation</strong> provide?",
+    "answer": "Negligent misrepresentation provides that if, in the ordinary course of business, a person seeks information or advice from another who possesses special skills in circumstances in which a reasonable person would know that their special skills were being relied upon, and the person asked chooses to give the advice without clearly qualifying their answer, then they accept a legal duty to exercise such care as the circumstances require. If they are incorrect, they may be liable."
+  },
+  {
+    "question": "What is a <strong>private nuisance</strong>?",
+    "answer": "A private nuisance occurs when an owner or occupier of land unreasonably and substantially interferes with the reasonable use and enjoyment of a neighbouring property."
+  },
+  {
+    "question": "What is a <strong>tort</strong>?<br />&nbsp;(1) A private wrong or injury, including breach of contract, for which the court will provide a remedy in the form of an action for damages.<br />&nbsp;(2) A private wrong or injury, other than breach of contract, for which the court will provide a remedy in the form of an action for damages.<br />&nbsp;(3) A breach of contract that will not be able to be tried in court as it did not result in injury.<br />&nbsp;(4) A breach of contract that will be eligible to be tried in court as it did result in injury.",
+    "answer": "A tort is:<br />&nbsp;(2) A private wrong or injury, other than breach of contract, for which the court will provide a remedy in the form of an action for damages."
+  },
+  {
+    "question": "A client information record for every real estate transaction where a licensee must record their client’s name, address, date of birth, and nature of their principal business or occupation must be kept for five years from the day the last business transaction was conducted and must be provided to the Financial Transactions and Reports Analysis Centre of Canada within 30 days upon request.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "A client information record for every real estate transaction where a licensee must record their client’s name, address, date of birth, and nature of their principal business or occupation must be kept for five years from the day the last business transaction was conducted and must be provided to the Financial Transactions and Reports Analysis Centre of Canada within 30 days upon request.<br />&nbsp;<strong>(1) True</strong><br />&nbsp;(2) False"
+  },
+  {
+    "question": "A licensee who is using the Government Issued Photo Identification method of identifying an individual for the purposes of compliance with KYC obligations may inspect the identification in-person, or may do so virtually, but only if ____________________________.",
+    "answer": "sophisticated software that is able to assess a document’s authenticity, through an analysis of its security features, is used."
+  },
+  {
+    "question": "A licensee must report a \"large cash transaction\" to _________ if they receive more than $________ in cash in the course of a single transaction.\"",
+    "answer": "A licensee must report a \"large cash transaction\" to <strong>FINTRAC</strong> if they receive more than $<strong>10,000</strong> in cash in the course of a single transaction.\""
+  },
+  {
+    "question": "If a brokerage receives $10,000 in cash in the course of a single real estate transaction, it will be required to complete the following two key records: _______ and ________.",
+    "answer": "If a brokerage receives $10,000 in cash in the course of a single real estate transaction, it will be required to complete the following two key records: <strong>receipt of funds record</strong> and <strong>large cash transaction report</strong>. "
+  },
+  {
+    "question": "Define <strong>trespass</strong>.",
+    "answer": "Trespass is a legal term for wrongfully entering, remaining on, or placing something on another's land."
+  },
+  {
+    "question": "What statute in British Columbia imposes liability on an occupier of premises for injury suffered by those entering the premises?",
+    "answer": "The Occupiers Liability Act imposes liability on an occupier of premises for injury suffered by those entering the premises in BC."
+  },
+  {
+    "question": "Is the fact that a nuisance caused by an individual is beneficial to the public a valid defence at law?",
+    "answer": "No, it is no defence to say that the act complained of in a nuisance action is beneficial to the public."
+  },
+  {
+    "question": "If a real estate licensee breaches the duty of utmost good faith to their client, the licensee has breached a ___________ duty.",
+    "answer": "If a real estate licensee breaches the duty of utmost good faith to their client, the licensee has breached a <strong>fiduciary</strong> duty."
+  },
+  {
+    "question": "The tort of deceit is similar to the concept of negligent misrepresentation.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "The tort of deceit is similar to the concept of negligent misrepresentation.<br />&nbsp;(1) True<br />&nbsp;<strong>(2) False</strong><br />The tort of deceit is similar to the concept of fraudulent misrepresentation, which applies to the law of contract."
+  },
+  {
+    "question": "What is the name of the tort that involves a failure by a person to exercise care in circumstances which require that person to take care?",
+    "answer": "Negligence"
+  },
+  {
+    "question": "Describe vicarious liability.",
+    "answer": "Vicarious liability is a legal principle that holds that where an employee commits a wrongful act in the ordinary course of employment, the injured party can sue both the employee and the employer for damages caused by the employee’s act."
+  },
+  {
+    "question": "Define occupiers liability.",
+    "answer": "Occupiers liability is the duty that an occupier of land is required to show toward persons entering onto that land."
+  }
+]

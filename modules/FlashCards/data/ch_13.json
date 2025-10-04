@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is <strong>amortization</strong>?",
+    "answer": "Amortization is the process of paying off a loan by periodic payments of blended principal and interest."
+  },
+  {
+    "question": "What is included in a <strong>balloon payment</strong>?",
+    "answer": "A balloon payment includes any payment of principal over and above the regular payment."
+  },
+  {
+    "question": "Define <strong>compound interest</strong>.",
+    "answer": "Compound interest is interest which, during the life of the loan, is charged or calculated at regular intervals and if not immediately paid (as in an interest-only loan) will, in subsequent periods, earn interest itself (as in an interest-accruing loan)."
+  },
+  {
+    "question": "The number of times compound interest is charged or calculated per year (for example, semi-annually or monthly), is referred to as the __________ __________.",
+    "answer": "The number of times compound interest is charged or calculated per year (for example, semi-annually or monthly), is referred to as the <strong>compounding frequency</strong>."
+  },
+  {
+    "question": "Incurring an obligation to repay a debt in order to invest or consume more than one currently owns is known as ______ ____________.",
+    "answer": "Incurring an obligation to repay a debt in order to invest or consume more than one currently owns is known as <strong>debt financing</strong>."
+  },
+  {
+    "question": "Describe how a <strong>constant payment loan</strong> works.",
+    "answer": "A constant payment loan is a loan which is repaid by equal and consecutive instalments that include both principal and interest."
+  },
+  {
+    "question": "Describe <strong>diversification</strong>.",
+    "answer": "Diversification is the process of investing funds in more than one project or industry in order to reduce the risk of unexpected losses."
+  },
+  {
+    "question": "What is the difference between <strong>fully amortized</strong> and <strong>partially amortized</strong> mortgages?",
+    "answer": "A fully amortized mortgage is one in which the loan is completely repaid by payments made over the entire amortization period. A partially amortized mortgage is one in which the loan term is shorter than the amortization period, and an outstanding balance exists at the end of the term."
+  },
+  {
+    "question": "What is the difference between an <strong>interest-only loan</strong> and <strong>interest-accruing loan</strong>?",
+    "answer": "An interest-only loan is repaid with interest-only payments until the end of the loan term, where the principal and last interest payment are owed. An interest-accruing loan requires a single lump-sum payment of principal and accumulated interest at the end of the loan term."
+  },
+  {
+    "question": "List the three major <strong>sources of mortgage funds</strong>.",
+    "answer": "There are three major types of lenders: institutional lenders, private lenders, and government."
+  }
+]

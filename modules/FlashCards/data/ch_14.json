@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Define <strong>effective annual rate</strong>.",
+    "answer": "An effective annual rate j<sub>1</sub> is an annual interest rate compounded once a year."
+  },
+  {
+    "question": "Define <strong>nominal rate of interest</strong>.",
+    "answer": "A nominal rate of interest is an interest rate quoted as a rate per annum. It is equal to the interest rate per compounding period multiplied by the number of compounding periods."
+  },
+  {
+    "question": "What is an <strong>outstanding balance</strong>?",
+    "answer": "An outstanding balance is the amount of principal owing to the lender at a specific point in time."
+  },
+  {
+    "question": "Consider a fully amortized loan. If the periodic payments are rounded up to the next higher dollar, how will this affect the size of the <strong>final payment</strong>?",
+    "answer": "Rounding up payments allows the borrower to pay off the loan faster, and pay less interest in total. The final payment will become smaller."
+  },
+  {
+    "question": "When is the <strong>outstanding balance</strong> of a loan the greatest?",
+    "answer": "The outstanding balance of a loan is greatest at the time the loan is created."
+  },
+  {
+    "question": "The amortization period is used to calculate ___ ____ __ ___ ______ ______.",
+    "answer": "The amortization period is used to calculate <strong>the size of the required payments</strong>."
+  },
+  {
+    "question": "With constant payment mortgage loans, a large portion of each of the early payments is allocated to the payment of _________.",
+    "answer": "With constant payment mortgage loans, a large portion of each of the early payments is allocated to the payment of <strong>interest</strong>."
+  },
+  {
+    "question": "Two interest rates are said to be equivalent if:",
+    "answer": "for the same amount borrowed, over the same period of time, the same amount is owed at the end of the period of time."
+  },
+  {
+    "question": "When comparing interest rates to one another, it is necessary to compare rates that have the ______ frequency of compounding in order to accurately assess the cost of borrowing.",
+    "answer": "When comparing interest rates to one another, it is necessary to compare rates that have the <strong>same</strong> frequency of compounding in order to accurately assess the cost of borrowing."
+  },
+  {
+    "question": "When a monthly payment is divided in half and paid every two weeks, it is known as a:",
+    "answer": "When a monthly payment is divided in half and paid every two weeks, it is known as a <strong>biweekly accelerated payment</strong>."
+  }
+]

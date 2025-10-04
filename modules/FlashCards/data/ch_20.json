@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Define <strong>building envelope system</strong>.",
+    "answer": "The building envelope system is the \"skin\" of the house, which is used to protect the house's internal environment from moisture, dust, wind and extreme temperatures.\""
+  },
+  {
+    "question": "Which of the following is NOT considered a superstructure component? <br />&nbsp;(1) Joist<br />&nbsp;(2) Column <br />&nbsp;(3) Slab",
+    "answer": "Option (3), slab, is part of the foundation system, not the superstructure."
+  },
+  {
+    "question": "Asphalt shingles curved up at each edge are referred to as ________ _______. Asphalt shingles that have lifted in the middle are referred to as ___________. ",
+    "answer": "Asphalt shingles curved up at each edge are referred to as <strong>edge curl</strong>. Asphalt shingles that have lifted in the middle are referred to as <strong>fishmouth</strong>."
+  },
+  {
+    "question": "Define <strong>voltage</strong>, <strong>amperage</strong>, and <strong>wattage</strong>. ",
+    "answer": "Voltage is a measure of electrical potential or pressure of current flow. Amperage is a measure of the rate of current flow or quantity of electricity per unit of time. The service capacity of a house is measured in amps. Wattage is a measure of power or consumption; electrical usage is measured in watts."
+  },
+  {
+    "question": "When the opening portion of the window is hinged on the top and opens outward, it is known as an _______ _______.",
+    "answer": "hen the opening portion of the window is hinged on the top and opens outward, it is known as an <strong>awning window</strong>."
+  },
+  {
+    "question": "Building waste is disposed of by one of two main methods: _______ systems and _________ systems.",
+    "answer": "Building waste is disposed of by one of two main methods: <strong>municipal</strong> systems and <strong>septic</strong> systems."
+  },
+  {
+    "question": "Gas fill in the sealed unit (typically argon, krypton or another non-toxic gas instead of air) is a key feature of an energy efficient ________.",
+    "answer": "Gas fill in the sealed unit (typically argon, krypton or another non-toxic gas instead of air) is a key feature of an energy efficient <strong>window</strong>."
+  },
+  {
+    "question": "Rigid glassfibre is the most common type of wall insulation.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "Rigid glassfibre is the most common type of wall insulation.<br />&nbsp;(1) True<br />&nbsp;<strong>(2) False</strong><br />Glassfibre batt is the most common type of wall insulation."
+  },
+  {
+    "question": "_______ _______ _______ is a type of siding that has increased in popularity due to its durability and reliability.",
+    "answer": "<strong>Cement board siding</strong> is a type of siding that has increased in popularity due to its durability and reliability."
+  },
+  {
+    "question": "Green homes typically require ____ ______ to operate and produce _______ greenhouse gas emissions.",
+    "answer": "Green homes typically require <strong>less energy</strong> to operate and produce <strong>fewer</strong> greenhouse gas emissions."
+  }
+]

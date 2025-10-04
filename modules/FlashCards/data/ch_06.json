@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Which of the following regarding <strong>distress</strong> is <strong>false</strong> when considering commercial tenancies?<br />&nbsp;(1) The landlord is able to seize a tenant's personal property.<br />&nbsp;(2) The landlord is able to sell a tenant's personal property.<br />&nbsp;(3) It is a legal term used to recover arrears of rent.<br />&nbsp;(4) It is a situation where a person is forced into a contract against his/her will by threat of imprisonment or physical harm.",
+    "answer": "Which of the following regarding <strong>distress</strong> is <strong>false</strong> when considering commercial tenancies?<br />&nbsp;(1) The landlord is able to seize a tenant's personal property.<br />&nbsp;(2) The landlord is able to sell a tenant's personal property.<br />&nbsp;(3) It is a legal term used to recover arrears of rent.<br />&nbsp;<strong>(4) It is a situation where a person is forced into a contract against his/her will by threat of imprisonment or physical harm.</strong><br />This statement is false, as distress in this case refers to a landlord's right to seize and sell all of a tenant's personal property in order to recover arrears of rent. All other statements are true."
+  },
+  {
+    "question": "Which of the following is <strong>false</strong> regarding a <strong>lease</strong>?<br />&nbsp;(1) The one who grants the lease is called the lessor.<br />&nbsp;(2) The one to whom the lease is granted is called the lessor.<br />&nbsp;(3) A lease grants exclusive possession of land to another.<br />&nbsp;(4) A lease extends over a specified term.",
+    "answer": "Which of the following is <strong>false</strong> regarding a <strong>lease</strong>?<br />&nbsp;(1) The one who grants the lease is called the lessor.<br />&nbsp;<strong>(2) The one to whom the lease is granted is called the lessor.</strong><br />&nbsp;(3) A lease grants exclusive possession of land to another.<br />&nbsp;(4) A lease extends over a specified term.<br />This statement is false, as the one to whom the lease is granted is called the lessee. All other statements are true."
+  },
+  {
+    "question": "In a periodic tenancy, what occurs on the last day of the term?",
+    "answer": "In a periodic tenancy, the tenancy automatically renews itself on the last day of the term for a further term of the same duration until terminated by either party."
+  },
+  {
+    "question": "What is a <strong>tenancy agreement</strong>?",
+    "answer": "A tenancy agreement is the term used in the Residential Tenancy Act to refer to a contract between a landlord and a tenant, pertaining to the letting of residential premises."
+  },
+  {
+    "question": "A tenancy at will is a tenancy where the tenant, with the consent of the landlord, occupies property as a tenant for a term which can be ________ by either party at ___ ____.",
+    "answer": "A tenancy at will is a tenancy where the tenant, with the consent of the landlord, occupies property as a tenant for a term which can be <strong>terminated</strong> by either party at <strong>any time</strong>."
+  },
+  {
+    "question": "A landlord may end a periodic tenancy if they intend, in good faith, to occupy the premises, by providing the tenant with _____ months' notice.",
+    "answer": "A landlord may end a periodic tenancy if they intend, in good faith, to occupy the premises, by providing the tenant with <strong>three</strong> months' notice."
+  },
+  {
+    "question": "A landlord of residential premises may collect up to one-half of one month's rent as a security deposit.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "A landlord of residential premises may collect up to one-half of one month's rent as a security deposit.<br />&nbsp;<strong>(1) True</strong><br />&nbsp;(2) False"
+  },
+  {
+    "question": "Distress is an effective remedy for landlords of residential premises for the non-payment of rent by their tenants.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "Distress is an effective remedy for landlords of residential premises for the non-payment of rent by their tenants.<br />&nbsp;(1) True<br />&nbsp;<strong>(2) False</strong><br />While effective for commercial landlords, section 26(3) of the Residential Tenancy Act abolishes this remedy for non-payment of rent in residential tenancies."
+  },
+  {
+    "question": "A ________ is a lease by which a tenant grants to a third party an interest in the property less than their own interest under the original lease.",
+    "answer": "A <strong>sublease</strong> is a lease by which a tenant grants to a third party an interest in the property less than their own interest under the original lease."
+  },
+  {
+    "question": "In legal terms, what does it mean to <strong>assign</strong> something?",
+    "answer": "To assign is to transfer over to another. (e.g., \"I assign all right, title and interest in Blackacre to my wife, Elaine.\")\""
+  }
+]

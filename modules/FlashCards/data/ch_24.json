@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the <strong>adjustment date</strong>?",
+    "answer": "The adjustment date is the date agreed to by both parties to a real property transaction for the adjustment of property taxes, rent, interest, and other items."
+  },
+  {
+    "question": "A ____________ statement is prepared for a purchaser or vendor, showing the amounts to be received and paid out in the transfer of real property. The difference between these amounts represents either the balance payable by the ____________ or the cash proceeds from the sale to the ___________ upon completion of the transaction.",
+    "answer": "A <strong>closing</strong> statement is prepared for a purchaser or vendor, showing the amounts to be received and paid out in the transfer of real property. The difference between these amounts represents either the balance payable by the <strong>purchaser</strong> or the cash proceeds from the sale to the <strong>vendor</strong> upon completion of the transaction."
+  },
+  {
+    "question": "The date on which the purchaser's solicitor undertakes to the vendor (or his/her solicitor) that he/she will pay the balance owing to the vendor upon the _________ of _________ being accepted for registration, is known as the ________ date.",
+    "answer": "The date on which the purchaser's solicitor undertakes to the vendor (or his/her solicitor) that he/she will pay the balance owing to the vendor upon the <strong>transfer</strong> of <strong>title</strong> being accepted for registration, is known as the <strong>completion</strong> date."
+  },
+  {
+    "question": "What is a <strong>conveyance</strong>?",
+    "answer": "A conveyance is the process of transferring an interest in land from one person to another by way of a transfer document. Conveyancing usually refers to the transfer of title to land but also includes dealings such as assignments, leases, and mortgages."
+  },
+  {
+    "question": "A fixture, such as a wall or fence, which illegally intrudes or invades onto public or private property, diminishing the size and value of the invaded property is referred to as an _____________.",
+    "answer": "A fixture, such as a wall or fence, which illegally intrudes or invades onto public or private property, diminishing the size and value of the invaded property is referred to as an <strong>encroachment</strong>."
+  },
+  {
+    "question": "A ____________'s statement of adjustment is a _______ statement in a real property transaction which indicates the balance of ____ required from the purchaser to complete the transaction.",
+    "answer": "A <strong>purchaser</strong>'s statement of adjustment is a <strong>closing</strong> statement in a real property transaction which indicates the balance of <strong>cash</strong> required from the purchaser to complete the transaction."
+  },
+  {
+    "question": "A statement of ____________ is a closing statement in a real property transaction whose format is structured by debits and _______.",
+    "answer": "A statement of <strong>adjustments</strong> is a closing statement in a real property transaction whose format is structured by debits and <strong>credits</strong>."
+  },
+  {
+    "question": "A _________'s statement of adjustments is a ________ statement which shows the ___ amount of proceeds to be received by the vendor upon completion of the transaction.",
+    "answer": "A <strong>vendor</strong>'s statement of adjustments is a <strong>closing</strong> statement which shows the <strong>net</strong> amount of proceeds to be received by the vendor upon completion of the transaction."
+  },
+  {
+    "question": "A deposit paid directly from the purchaser to the vendor will appear on the vendor's statement of adjustments.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "A deposit paid directly from the purchaser to the vendor will appear on the vendor's statement of adjustments.<br />&nbsp;<strong>(1) True</strong><br />&nbsp;(2) False<br />The deposit would appear as a debit on the vendor's statement of adjustments."
+  },
+  {
+    "question": "A take-back mortgage will appear as a credit on which party's statement of adjustment?<br />&nbsp;(1) Purchaser<br />&nbsp;(2) Vendor",
+    "answer": "A take-back mortgage will appear as a credit on which party's statement of adjustment?<br />&nbsp;<strong>(1) Purchaser</strong><br />&nbsp;(2) Vendor"
+  },
+  {
+    "question": "A ___________ is a fundamental term of a contract, a breach of which allows the non-breaching party to terminate the contract and/or sue for damages or specific performance.",
+    "answer": "A <strong>condition</strong> is a fundamental term of a contract, a breach of which allows the non-breaching party to terminate the contract and/or sue for damages or specific performance."
+  },
+  {
+    "question": "Describe the difference between the closing date, adjustment date, and possession date.",
+    "answer": "The closing date is the date specified in the contract for purchase and sale on which the seller is obligated to transfer title in the state set out in the contract, and the buyer is obligated to pay the purchase price in accordance with the contract. The adjustment date is the date agreed upon by the buyer and seller for the adjustment of taxes, interest, rent, and other appropriate items. The possession date is the date on which the buyer is entitled to possession of the property."
+  },
+  {
+    "question": "What is title insurance?",
+    "answer": "Title insurance protects an owner or a lender against certain losses associated with title defects or related problems with the insured property."
+  },
+  {
+    "question": "The _____________ is the amount of cash the buyer must be able to provide to the conveyancer (amount due to the seller) in order to complete the transaction.",
+    "answer": "The <strong>balance due to complete</strong> is the amount of cash the buyer must be able to provide to the conveyancer (amount due to the seller) in order to complete the transaction."
+  },
+  {
+    "question": "Upon completion of the transaction, the seller receives the _______ from the conveyancer (from the buyer).",
+    "answer": "Upon completion of the transaction, the seller receives the <strong>cash proceeds of sale</strong> from the conveyancer (from the buyer)."
+  }
+]

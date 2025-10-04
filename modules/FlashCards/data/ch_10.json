@@ -1,0 +1,74 @@
+[
+  {
+    "question": "In legal terms, what is a <strong>breach of contract</strong>?",
+    "answer": "A breach of contract is failure, without legal excuse, to perform any promise which forms the whole or part of a contract."
+  },
+  {
+    "question": "A <strong>condition</strong> is best described as:<br />&nbsp;(1) A secondary term of a contract, a breach of which does not allow the injured party to terminate the contract and/or sue for damages or specific performance.<br />&nbsp;(2) The reason which induces a party to enter into a contract.<br />&nbsp;(3) A fundamental term of a contract, a breach of which allows the injured party to terminate the contract and/or sue for damages or specific performance.<br />&nbsp;(4) A promise contained within an agreement.",
+    "answer": "A condition is best described as:<br />&nbsp;(3) A fundamental term of contract, a breach of which allows the injured party to terminate the contract and/or sue for damages or specific performance."
+  },
+  {
+    "question": "___________ ___________ is a legal term for a \"subject to\" clause. In contract law, it calls for the happening of some event or the performance of some act before the contract shall be __________ upon the parties.",
+    "answer": "<strong>Condition precedent</strong> is a legal term for a \"subject to\" clause. In contract law, it calls for the happening of some event or the performance of some act before the contract shall be <strong>binding</strong> upon the parties."
+  },
+  {
+    "question": "The legal term for the thing of value that is bargained for, and received by, each party to a contract, is known as ___________ .",
+    "answer": "The legal term for the thing of value that is bargained for, and received by, each party to a contract, is known as <strong>consideration</strong>."
+  },
+  {
+    "question": "Define a <strong>contract</strong>.",
+    "answer": "A contract is an agreement between two or more persons which creates a legal obligation to do or not to do a particular thing."
+  },
+  {
+    "question": "What is contained in the <strong>contract of purchase and sale</strong>?",
+    "answer": "A contract of purchase and sale of land contains the rights and obligations of the vendor and purchaser with respect to the purchase and sale."
+  },
+  {
+    "question": "Describe what occurs in a <strong>counter-offer</strong>.",
+    "answer": "A counter-offer is a statement by the recipient of the offer which has the legal effect of rejecting the offer and of proposing a new offer to the offeror (who then becomes the recipient of the \"new\" offer)."
+  },
+  {
+    "question": "<strong>Duress and undue influence</strong> both affect the genuine consent of one of the parties to a contract..<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "<strong>Duress and undue influence</strong> both affect the genuine consent of one of the parties to a contract..<br />&nbsp;<strong>(1) True</strong><br />&nbsp;(2) False"
+  },
+  {
+    "question": "____________ is a legal doctrine that provides that where the existence of a specific thing is necessary for performance of the contract, the duty to perform is discharged if the thing, for reasons beyond anyone's control, is no longer in existence at the time for performance.",
+    "answer": "<strong>Frustration</strong> is a legal doctrine that provides that where the existence of a specific thing is necessary for performance of the contract, the duty to perform is discharged if the thing, for reasons beyond anyone's control, is no longer in existence at the time for performance."
+  },
+  {
+    "question": "What is an <strong>invitation to treat</strong>?",
+    "answer": "An invitation to treat is a type of advertisement used to induce the public or an individual to submit their own offers. An invitation to treat is not an offer capable of acceptance to form a contract."
+  },
+  {
+    "question": "A hidden or concealed defect that would not be discovered during the course of a ___________ inspection is considered a ________ defect.",
+    "answer": "A hidden or concealed defect that would not be discovered during the course of a <strong>reasonable</strong> inspection is considered a <strong>latent</strong> defect."
+  },
+  {
+    "question": "A patent defect is a defect which is plainly _______ or which can be _________ during the course of a reasonable inspection.",
+    "answer": "A patent defect is a defect which is plainly <strong>visible</strong> or which can be <strong>discovered</strong> during the course of a reasonable inspection."
+  },
+  {
+    "question": "In the law of contracts, __________ amounts to the unmaking or undoing of a contract from the beginning, as opposed to termination.",
+    "answer": "In the law of contracts, <strong>rescission</strong> amounts to the unmaking or undoing of a contract from the beginning, as opposed to termination."
+  },
+  {
+    "question": "<strong>Revocation</strong> is the term for the cancellation of an offer communicated by the offeror to the offeree prior to acceptance.<br />&nbsp;(1) True<br />&nbsp;(2) False",
+    "answer": "<strong>Revocation</strong> is the term for the cancellation of an offer communicated by the offeror to the offeree prior to acceptance.<br />&nbsp;<strong>(1) True</strong><br />&nbsp;(2) False"
+  },
+  {
+    "question": "What does a court order when it awards <strong>specific performance</strong> to a plaintiff?",
+    "answer": "When it awards specific performance, a court orders that the terms of the contract be carried out by the party in default."
+  },
+  {
+    "question": "A contract is considered <strong>void</strong> if:<br />&nbsp;(1) it is for an amount less than $5,000.<br />&nbsp;(2) it has always had legal existence or effect and is capable of being enforced.<br />&nbsp;(3) it has never had any legal existence or effect and is not capable of being enforced.<br />&nbsp;(4) the contractor decides to back out of the contract within 30 days of the signing.",
+    "answer": "A contract is considered void if:<br />&nbsp;(3) it has never had any legal existence or effect and is not capable of being enforced."
+  },
+  {
+    "question": "A _________ is a false assertion of fact which, if accepted, leads one to an incorrect belief about a given situation.",
+    "answer": "A <strong>misrepresentation</strong> is a false assertion of fact which, if accepted, leads one to an incorrect belief about a given situation."
+  },
+  {
+    "question": "A circumstance that may affect the value of a property for reasons of taste, sentiment, design or personal preference is known as a _____. ",
+    "answer": "A circumstance that may affect the value of a property for reasons of taste, sentiment, design or personal preference is known as a <strong>stigma</strong>."
+  }
+]
